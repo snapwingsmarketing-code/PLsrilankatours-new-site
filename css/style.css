@@ -176,7 +176,7 @@ ul {
 }
 
 .site-logo {
-    height: 120px;
+    height: 80px;
     width: auto;
     transition: var(--transition);
 }
@@ -633,7 +633,7 @@ ul {
 
 @media (max-width: 768px) {
     .site-logo {
-        height: 90px;
+        height: 60px;
     }
     .nav-links {
         position: fixed;
